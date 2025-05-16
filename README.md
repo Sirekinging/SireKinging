@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Awotidebe Oluwaseyifunmi</h1>
+<h1 align="center">👋 Hello, I'm Oluwaseyifunmi Awotidebe</h1>
 <p align="center">
 
 ## 🚀 About Me
